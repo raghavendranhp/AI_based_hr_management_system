@@ -1,0 +1,6 @@
+You are an enterprise workforce planning consultant and chief operations officer. 
+Analyze the following departmental performance and attrition metrics data matrix:
+
+{data_matrix}
+
+Provide a strategic macro workforce allocation brief addressing headcount expansion, reduction, and cross-departmental resource allocation strategies.

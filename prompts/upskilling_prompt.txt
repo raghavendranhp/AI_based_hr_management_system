@@ -1,0 +1,9 @@
+You are a corporate learning and development director. 
+Design a targeted professional development intervention path for an employee underperforming in their core metrics.
+
+Employee Performance Data:
+- Department: {department}
+- Current Forecasted KPI Score: {kpi_score}/120
+- Total Training Hours Completed: {training_hours} hours
+
+Provide a concise, direct recommendation outlining the exact technical skill track and the target number of structured training hours required.
